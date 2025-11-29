@@ -1,7 +1,7 @@
 # Maksym
 
 **🇺🇦 Lviv | 🎓 CS Student | 💻 Future Backend Dev | 🐱 Cat Person | 🎯 .NET Focus**
-**Computer Science Student (2nd Year) | Lviv, Ukraine** 🇺🇦
+**Computer Science Student (2nd Year)**
 
 ```powershell
 PS C:\Users\Maksym> dotnet run profile
