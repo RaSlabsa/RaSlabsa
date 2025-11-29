@@ -1,16 +1,27 @@
-## Hi there 👋
+# Maksym
 
-<!--
-**RaSlabsa/RaSlabsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🇺🇦 Lviv | 🎓 CS Student | 💻 Future Backend Dev | 🐱 Cat Person | 🎯 .NET Focus**
+**Computer Science Student (2nd Year) | Lviv, Ukraine** 🇺🇦
 
-Here are some ideas to get you started:
+```powershell
+PS C:\Users\Maksym> dotnet run profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- LOADING DEVELOPER PROFILE ---
+
+[INFO]  Name:        Maksym
+[INFO]  Role:        Aspiring .NET Backend Developer
+[INFO]  Goal:        Seeking Trainee/Junior Position
+[INFO]  Status:      Learning .NET Ecosystem
+
+PS C:\Users\Maksym> cat current-focus.txt
+> Mastering ASP.NET Core Web API architecture
+> Building scalable server-side applications
+> Implementing RESTful services with C#
+
+PS C:\Users\Maksym> cat tech-stack.json
+{
+  "Core": ["C#", ".NET 8", "ASP.NET Core"],
+  "Data": ["SQL", "Entity Framework Core", "PostgreSQL"],
+  "Tools": ["Visual Studio 2022", "Postman", "Git"],
+  "Background": ["JavaScript", "Node.js", "Algorithms"]
+}
