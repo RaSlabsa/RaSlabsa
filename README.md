@@ -21,7 +21,7 @@ PS C:\Users\Maksym> cat current-focus.txt
 PS C:\Users\Maksym> cat tech-stack.json
 {
   "Core": ["C#", ".NET 8", "ASP.NET Core"],
-  "Data": ["SQL", "Entity Framework Core", "PostgreSQL"],
+  "Data": ["SQL"],
   "Tools": ["Visual Studio 2022", "Postman", "Git"],
-  "Background": ["JavaScript", "Node.js", "Algorithms"]
+  "Background": ["JavaScript", "Node.js"]
 }
